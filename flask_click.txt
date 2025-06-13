@@ -1,0 +1,40 @@
+see this is my html code of my website what i want is when i tap on this button i will redirct to this url : http://127.0.0.1:3000
+
+<!-- Feature 9: AI Fitness Chatbot -->
+        <div class="bg-white overflow-hidden shadow rounded-lg">
+          <div class="px-4 py-5 sm:p-6">
+            <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white mb-5">
+              <i data-lucide="message-circle" class="h-6 w-6"></i>
+            </div>
+            <h3 class="text-lg font-medium text-gray-900">AI Fitness Chatbot</h3>
+            <p class="mt-2 text-base text-gray-600">
+              24/7 support and guidance from our AI assistant to answer your fitness questions
+            </p>
+          </div>
+        </div>
+
+solution -
+
+To achieve the desired functionality, you just need to wrap your entire div in an anchor (<a>) tag or add a JavaScript function to handle the redirection. Here’s how you can do it in both ways:
+
+
+<!-- Feature 9: AI Fitness Chatbot -->
+<a href="http://127.0.0.1:3000" class="block">
+  <div class="bg-white overflow-hidden shadow rounded-lg">
+    <div class="px-4 py-5 sm:p-6">
+      <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white mb-5">
+        <i data-lucide="message-circle" class="h-6 w-6"></i>
+      </div>
+      <h3 class="text-lg font-medium text-gray-900">AI Fitness Chatbot</h3>
+      <p class="mt-2 text-base text-gray-600">
+        24/7 support and guidance from our AI assistant to answer your fitness questions
+      </p>
+    </div>
+  </div>
+</a>
+
+
+exp - 
+
+The code <a href="http://127.0.0.1:3000" class="block"> is an anchor tag (<a>) that creates a clickable link. Let me break it down:
+href - hyperlink 
