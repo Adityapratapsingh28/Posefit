@@ -127,7 +127,7 @@ def login():
         if 'conn' in locals() and conn:
             conn.close()
 
-if __name__ == '__main__':
+if __name__ == '__main__':     # home page port
     app.run(debug=True,port=5000)
 
 
