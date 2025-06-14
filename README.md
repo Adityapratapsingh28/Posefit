@@ -27,19 +27,14 @@ PoseFit brings everything together in one place to help you live a healthier, mo
 
 
 
-## **Table of Contents:**
+## Tech stack
+
+- Frontend : HTML, CSS, Javascript
+- Backend : flask, Javascript, Opencv, Mediapipe
+- Database : Mysql
+- LLM API's : Phidata & groq
 
 
-
-|Chapter No|Chapter Name|Page No|
-| :- | :- | :- |
-|1\.|Problem understanding, Identification of Entity and Relationships, Construction of DB using ER Model for the project|5|
-|2\.|Design of Relational Schemas, Creation of Database Tables for the project.|10|
-|3\.|Complex queries based on the concepts of constraints, sets, joins, views, Triggers and Cursors.|17|
-|4\.|Analyzing the pitfalls, identifying the dependencies, and applying normalizations|53|
-|5\.|Implementation of concurrency control and recovery mechanisms|72|
-|6\.|Code for the project|57|
-|7\.|Result and Discussion (Screen shots of the implementation with front end.)|71|
 
 
 
@@ -78,84 +73,91 @@ PoseFit addresses this problem by providing an all-in-one platform that combines
 ![PHOTO-2025-06-13-18-36-35](https://github.com/user-attachments/assets/3fb7bec8-991d-493f-93a0-c298bf8383b9)
 
 
-**RESULT AND DESCUSSION**
-
-
-
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.044.png) 
-
-Fig 7.1 frontend 
-
-
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.045.png)
-
-Fig 7.2 signup page
+## DEMO
 
 
 
 
 
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.046.png)
-
-Fig 7.3 login page
+<img width="498" alt="hero" src="https://github.com/user-attachments/assets/375fac27-371c-44ce-a7fb-86b0324c92c7" />
 
 
-
-![C:\Users\rohan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\650F69C491959BAFE60C4FAD7D4FB7AC\WhatsApp Image 2025-05-05 at 22.40.47_0c44f801.jpg](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.047.jpeg)
-
-Fig 7.4 fitness tracker (bicep curl)
+### frontend 
 
 
 
+<img width="174" alt="signup" src="https://github.com/user-attachments/assets/845b7aee-d001-4d8a-a4cd-fbd7c046eae3" />
 
 
-
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.048.png)
-
-Fig 7.5.1 mental wellness videos
-
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.049.png)
-
-Fig 7.5.2 mental wellness appointments
+### signup page
 
 
 
 
-
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.050.png)
-
-Fig 7.6.1 injury management 
+<img width="499" alt="login" src="https://github.com/user-attachments/assets/9292fc54-7a74-445c-a9eb-34e395e45f68" />
 
 
 
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.051.png)
-
-Fig 7.6.2 injury history
+### login page
 
 
 
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.052.png)
-
-Fig 7.7 nutrition chatbot
+<img width="503" alt="curl" src="https://github.com/user-attachments/assets/b8b1302b-48d0-4caa-9d5e-993946c903d2" />
 
 
-
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.053.png)
-
-Fig 7.8 fitness chatbot
+### fitness tracker (bicep curl)
 
 
 
-![](Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.054.png)
 
-Fig 7.9  fitness challenges
-86
 
-[ref1]: Aspose.Words.e2a0e717-6590-4968-8f8e-caa0374cb6eb.019.png
+<img width="500" alt="mental_welness_v" src="https://github.com/user-attachments/assets/94fde48c-45d8-4dc8-bca3-012b22fbe31d" />
+
+
+
+### mental wellness videos
+
+
+<img width="470" alt="appointment" src="https://github.com/user-attachments/assets/8653e713-2cf3-41dc-9576-29da1cffc3ac" />
+
+
+### mental wellness appointments
+
+
+
+
+<img width="499" alt="injury" src="https://github.com/user-attachments/assets/23879280-d949-4bb7-86b6-d15d77c35c9b" />
+
+
+
+### injury management 
+
+
+
+
+<img width="500" alt="injury_r" src="https://github.com/user-attachments/assets/6a6f4352-592b-44f8-b2f4-a14aa2ae0c14" />
+
+
+
+### injury history
+
+
+<img width="346" alt="nutribution" src="https://github.com/user-attachments/assets/79676344-f833-42c1-8270-a4b87edd6915" />
+
+
+
+
+### nutrition chatbot
+
+
+<img width="412" alt="fitness" src="https://github.com/user-attachments/assets/e12e949b-e056-4653-a441-9f2eeff860b9" />
+
+### fitness chatbot
+
+
+<img width="410" alt="chall" src="https://github.com/user-attachments/assets/97d26a8b-874f-4244-b88e-6285b0601e7e" />
+
+
+
+### fitness challenges
+
