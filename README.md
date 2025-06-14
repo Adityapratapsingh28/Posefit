@@ -156,7 +156,5 @@ PoseFit addresses this problem by providing an all-in-one platform that combines
 
 <img width="410" alt="chall" src="https://github.com/user-attachments/assets/97d26a8b-874f-4244-b88e-6285b0601e7e" />
 
-
-
 ### fitness challenges
 
