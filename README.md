@@ -81,7 +81,6 @@ PoseFit addresses this problem by providing an all-in-one platform that combines
 
 <img width="498" alt="hero" src="https://github.com/user-attachments/assets/375fac27-371c-44ce-a7fb-86b0324c92c7" />
 
-
 ### frontend 
 
 
